@@ -8,8 +8,6 @@ Gideon Okuro
 
 ## Description
 ![Alt text](assets/img/portfolio.png?raw=true "Screenshot")
-/home/gideon/Desktop/DevFolio/assets/img/portfolio.png
-
 
 ## Live Page
 https://okuro3499.github.io/portfolio/
